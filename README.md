@@ -10,7 +10,7 @@ El proyecto se estructura en un único notebook principal, acompañado de la car
 
 ```bash
 .
-├── DATOSTFG/              # Carpeta con los datos utilizados en el TFG
+├── DATOSTFG.zip              # Carpeta con los datos utilizados en el TFG
 ├── AnalisisChurn.ipynb    # Notebook principal con todo el análisis
 ├── README.md
 ```
