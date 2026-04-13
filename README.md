@@ -1,4 +1,4 @@
-# 📊 Análisis de Churn  — Trabajo de Fin de Grado
+#  Análisis de Churn  — Trabajo de Fin de Grado
 
 Este repositorio recoge el código y los datos empleados en el **Trabajo de Fin de Grado (TFG)** para el análisis del **churn o abandono de clientes** en una **empresa del sector de las telecomunicaciones**.  
 
@@ -6,7 +6,7 @@ El objetivo del proyecto es estudiar los factores que influyen en la pérdida de
 
 El proyecto se estructura en un único notebook principal, acompañado de la carpeta con los datos necesarios para su correcta ejecución.
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```bash
 .
@@ -15,7 +15,7 @@ El proyecto se estructura en un único notebook principal, acompañado de la car
 ├── README.md
 ```
 
-## ▶️ Ejecución del proyecto
+##  Ejecución del proyecto
 
 Para ejecutar correctamente el notebook se recomienda usar **Google Colab**, ya que el proyecto ha sido preparado para trabajar con archivos almacenados en **Google Drive**.
 
